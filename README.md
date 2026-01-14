@@ -4,9 +4,8 @@
 ![License](https://img.shields.io/badge/license-acad%C3%AAmico-blue)
 ![IA](https://img.shields.io/badge/IA-ChatGPT%20%7C%20Copilot-orange)
 ![Educação](https://img.shields.io/badge/%C3%A1rea-Educa%C3%A7%C3%A3o%20Jur%C3%ADdica-blueviolet)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/gisellagonzales/IA-em-Sala-de-Aula---Desafio-DIO)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/gisellagonzales/IA-em-Sala-de-Aula---Desafio-DIO)
-
+![GitHub Repo Size](https://img.shields.io/github/repo-size/gisellagonzales-gif/IA-em-Sala-de-Aula---Desafio-DIO)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/gisellagonzales-gif/IA-em-Sala-de-Aula---Desafio-DIO)
 
 ---
 
