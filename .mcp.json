@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "image-gen": {
+      "command": "node",
+      "args": [
+        "${CLAUDE_PROJECT_DIR}/mcp-servers/image-gen-mcp/build/index.js"
+      ],
+      "env": {
+        "SD_WEBUI_URL": "http://127.0.0.1:7860",
+        "SD_OUTPUT_DIR": "${CLAUDE_PROJECT_DIR}/mcp-servers/image-gen-mcp/output"
+      }
+    }
+  }
+}
